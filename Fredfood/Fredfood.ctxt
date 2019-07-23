@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fredfood
+comment0.text=\r\n\ You\ are\ shopping\ at\ Fred's\ Food\!\ This\ program\ will\ ask\ you\ what\ you\ want\ to\ buy\ and\ will\ print\ you\ a\ bill\r\n\ Farzan\ Bhuiyan\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Fredfood()
+numComments=3

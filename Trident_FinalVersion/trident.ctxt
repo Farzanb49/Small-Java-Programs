@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=trident
+comment0.text=\r\n\ This\ program\ will\ promp\ the\ user\ to\ input\ specifications\ for\ a\ trident,\ which\ \r\n\ will\ then\ be\ outputted.\ The\ program\ will\ accept\ the\ parameters\ for\ tine\ length,\r\n\ spacing,\ and\ handle\ length,\ and\ will\ print\ out\ the\ appropriate\ trident.\ Enjoy\!\r\n\r\n\ Farzan\ Bhuiyan\r\n\ April\ 4,\ 2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=trident()
+numComments=3
